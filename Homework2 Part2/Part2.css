@@ -1,0 +1,43 @@
+body{
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#First{
+    width: 900px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.container{
+    box-sizing: border-box;
+    padding-top: 80px;
+    margin: 10px;
+    width: 30%;
+    height: 90%;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+p{
+    width: 65%;
+    height: 10%;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+div.text{
+    margin-left: 5px;
+    margin-right: 5px;
+}

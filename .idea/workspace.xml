@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="282b38a3-3dbd-4eed-84ef-8e36a23e4838" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework2/Homework2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/Homework2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2 Part2/Part2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2 Part2/Part2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +69,7 @@
       <updated>1674031846677</updated>
       <workItem from="1674031848219" duration="5546000" />
       <workItem from="1674044150436" duration="5881000" />
-      <workItem from="1674293586831" duration="4182000" />
+      <workItem from="1674293586831" duration="7940000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 1">
       <created>1674038936170</created>
@@ -127,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674070503402</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Перша частина Домашнього завдання до 2 лекції">
+      <created>1674298488412</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674298488412</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +155,7 @@
     <MESSAGE value="Homework 1" />
     <MESSAGE value="2" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="Перша частина Домашнього завдання до 2 лекції" />
+    <option name="LAST_COMMIT_MESSAGE" value="Перша частина Домашнього завдання до 2 лекції" />
   </component>
 </project>
