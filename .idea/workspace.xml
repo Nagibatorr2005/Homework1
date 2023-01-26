@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="282b38a3-3dbd-4eed-84ef-8e36a23e4838" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework2 Part2/Part2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2 Part2/Part2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 3/img/circle-dashed-4-xxl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 3/img/icone-d-ordinateur-orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 3/img/wine-glass-xxl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 3/index part1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 3/index part2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 3/style part1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 3/style part2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/podcast/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/podcast/pics/1639964574_30-abrakadabra-fun-p-standartnie-foni-telegramma-30 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/podcast/pics/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/podcast/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +51,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sgrin/IdeaProjects/Homework 1/images&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sgrin/IdeaProjects/Homework 1/Homework 3/img&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -53,9 +62,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sgrin\IdeaProjects\Homework 1\Homework 3\img" />
+      <recent name="C:\Users\sgrin\IdeaProjects\Homework 1\Homework 3" />
+      <recent name="C:\Users\sgrin\IdeaProjects\Homework 1\podcast\pics" />
       <recent name="C:\Users\sgrin\IdeaProjects\Homework 1\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sgrin\IdeaProjects\Homework 1\Homework 3\img" />
       <recent name="C:\Users\sgrin\IdeaProjects\Homework 1\Homework2" />
     </key>
   </component>
@@ -69,7 +82,11 @@
       <updated>1674031846677</updated>
       <workItem from="1674031848219" duration="5546000" />
       <workItem from="1674044150436" duration="5881000" />
-      <workItem from="1674293586831" duration="7940000" />
+      <workItem from="1674293586831" duration="12857000" />
+      <workItem from="1674324159299" duration="1015000" />
+      <workItem from="1674378668521" duration="3448000" />
+      <workItem from="1674638366420" duration="5986000" />
+      <workItem from="1674713302040" duration="3265000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 1">
       <created>1674038936170</created>
@@ -134,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674298488412</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Друга частина Домашнього завдання до 2 лекції">
+      <created>1674302092921</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674302092921</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +180,7 @@
     <MESSAGE value="2" />
     <MESSAGE value="1" />
     <MESSAGE value="Перша частина Домашнього завдання до 2 лекції" />
-    <option name="LAST_COMMIT_MESSAGE" value="Перша частина Домашнього завдання до 2 лекції" />
+    <MESSAGE value="Друга частина Домашнього завдання до 2 лекції" />
+    <option name="LAST_COMMIT_MESSAGE" value="Друга частина Домашнього завдання до 2 лекції" />
   </component>
 </project>
